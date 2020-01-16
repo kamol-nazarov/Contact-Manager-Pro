@@ -2,7 +2,7 @@
 	"name": "contact-manager-app",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://kamol-nazarov.github.io/Contact-Manager-Pro",
+	"homepage": "https://kamol-nazarov.github.io/Contact-Manager-Pro/",
 	"dependencies": {
 		"axios": "^0.19.1",
 		"bootstrap": "^4.4.1",
